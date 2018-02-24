@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
       print("Another print statement")
+      print("Hello git")
     }
 
     override func didReceiveMemoryWarning() {
